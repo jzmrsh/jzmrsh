@@ -1,6 +1,7 @@
+<!--
 <h5 align="center">WELCOME TO</h5>
 <h1 align="center"><img src="https://raw.githubusercontent.com/jzmrsh/jzmrsh/refs/heads/main/logo.png"></h1>
-
+-->
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img width="32" height="32" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git">
