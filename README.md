@@ -61,7 +61,7 @@
     <img width="32" height="32" src="https://www.vectorlogo.zone/logos/lua/lua-official.svg" alt="lua">
   </a>
   <a href="https://forum.cfx.re/c/general-discussion/16" target="_blank" rel="noreferrer">
-    <img width="32" height="32" src="https://forum-cfx-re.akamaized.net/original/5X/f/a/4/9/fa49157d3874302ef6fcd91ec44b95390f65a17c.png" alt="fivem">
+    <img width="32" height="32" src="https://img.utdstc.com/icon/bcb/fc5/bcbfc5ae3d074d8734b9f51e64f7e95d4325485e0c51661dcf3167e45d768a8d:64" alt="fivem">
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img width="32" height="32" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs">
